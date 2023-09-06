@@ -1,4 +1,4 @@
 # Isomorphism-model-no.2
-Mathematica notebook for "The Banach-Mazur distance between C([1,\omega]) C([1,\omega 3]) is not an integer number" paper. Updated September 2023.
+Mathematica notebook by A.Gergont, Ł.Piasecki for paper titled "The Banach-Mazur distance between C([1,\omega]) C([1,\omega 3]) is not an integer number" paper.
 
-**Download** the notebook by clicking "Code" and "Download ZIP". (For some reason clicking on the notebook itself and then "Download" just opens the raw text in a new window.)
+**Download** the file model no.2.nb and open it in Mahematica.
